@@ -1,8 +1,8 @@
 [package]
-author = ["xu_wh@bayss.com"]
+authors = ["xu_wh@bayss.com"]
 name = "trans_middle"
 version = "0.1.0"
-authors = ["BinChengZhao <binchengZhao@outlook.com>"]
 edition = "2021"
 
 [dependencies]
+tokio = {version = "1", features =["full"]}
